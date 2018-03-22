@@ -1,0 +1,9 @@
+Equal MACRO &a1,&a2
+if(&a1==&a2)
+printf(they are equal)
+else
+printf(they are not equal)
+MEND
+source:
+Equal(1,2)
+

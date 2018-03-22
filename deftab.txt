@@ -1,0 +1,7 @@
+Hello
+ &a1,&a2
+LDA 1
+LDA 2
+mac
+hello world
+its new

@@ -1,0 +1,15 @@
+//single line macro
+# macd a 10
+//multi line macro
+//multi
+Hello MACRO &a1,&a2
+LDA &a1
+LDA &a2
+mac  MACRO
+hello world
+its new
+MEND
+MEND
+Source:
+Hello 1,2
+End
